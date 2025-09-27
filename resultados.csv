@@ -1,0 +1,16 @@
+Tipo,Num_Hilos,Iteracion,Tiempo
+Secuencial,1,1,.007108263
+Secuencial,1,2,.003062097
+Secuencial,1,3,.012861659
+Paralelo,1,1,.004084249
+Paralelo,1,2,.003931611
+Paralelo,1,3,.003760996
+Paralelo,2,1,.002854994
+Paralelo,2,2,.003120891
+Paralelo,2,3,.003990556
+Paralelo,4,1,.003548119
+Paralelo,4,2,.003736157
+Paralelo,4,3,.004055131
+Paralelo,8,1,.005089316
+Paralelo,8,2,.005664495
+Paralelo,8,3,.005060137
